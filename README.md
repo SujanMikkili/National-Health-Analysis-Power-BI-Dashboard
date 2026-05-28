@@ -351,10 +351,10 @@ The Power BI report (`National_Health_Analysis.pbix`) includes:
 
 ## 🙋 Author
 
-**[Your Name]**  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub Profile](https://github.com/yourusername)
+**[Mikkili Sujan]**  
+📧 [sujan.mikkili2812@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sujanmikkili/)  
+🐙 [GitHub Profile](https://github.com/SujanMikkili)
 
 ---
 
